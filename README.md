@@ -62,7 +62,7 @@
 ## 📈 Cyberdyne Telemetry
 
 <p align="center">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=junhaumhayden&theme=synthwave&hide_border=true" alt="GitHub Streak" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=JunhaumHayden&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
