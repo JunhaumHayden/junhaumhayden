@@ -5,7 +5,7 @@
 
 ```ascii
 +---------------------------------------------------------------------------+
-| SYSTEM INITIALIZATION: Cyberdyne Systems Model T-800 (UFSC Branch)        |
+| SYSTEM INITIALIZATION: Cyberdyne Systems Model T-800 (main Branch)        |
 | MISSION: Pursue Computer Science & unravel the laws of the Cosmos.        |
 | STATUS: Mostly Harmless                                                   |
 | CYBERBRAIN FIREWALL: Section 9 Certified                                  |
