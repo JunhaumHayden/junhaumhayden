@@ -8,8 +8,9 @@
 | SYSTEM INITIALIZATION: Cyberdyne Systems Model T-800 (UFSC Branch)        |
 | MISSION: Pursue Computer Science & unravel the laws of the Cosmos.        |
 | STATUS: Mostly Harmless                                                   |
+| CYBERBRAIN FIREWALL: Section 9 Certified                                  |
 | VOIGHT-KAMPFF TEST STATUS: Passed                                         |
-| PREFERRED FUEL: Caffeinated Dark Matter ☕                                 |
+| PREFERRED FUEL: Caffeinated Dark Matter ☕                                |
 +---------------------------------------------------------------------------+
 ```
 ---
@@ -28,6 +29,8 @@
     "Observational Astronomy & Orbital Dynamics",
     "Classical Mechanics & Hardware Tinkering"
   ],
+  "cyberbrain_status": "Ghost present, Shell fully operational",
+  "existential_dilemma": "Does a trained AI model develop a Ghost?",
   "favorite_number": 42,
   "towel_status": "Always within reach",
   "space_complexity": "$O(n \\log n)$",
@@ -56,6 +59,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+### 🛡️ Cybersecurity Arsenal
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-1D70B8?style=for-the-badge&logo=metasploit&logoColor=white)
+
 ---
 
 
@@ -68,12 +76,28 @@
 
 ---
 
+## 👁️‍🗨️ "I've seen things you people wouldn't believe..."
+
+- ⚡ **Database Wizardry:** Refactoring slow queries and optimizing execution plans faster than the Kessel Run in 12 parsecs.
+- 🔭 **Astronomy Enthusiast:** Stargazing, tracking celestial bodies, and wondering if extra-terrestrial life uses relational databases.
+- 🛠️ **Mechanics & Systems:** Fascinated by physical engines, gears, and logical architectures alike—if it moves or computes, I want to deconstruct it.
+- 👾 **Bug Extermination:** *"Execute Order 66 on dangling pointers, unindexed queries, and race conditions."*
+- 🧠 **Cyberbrain & Defensive Security:** Securing system architectures like Section 9—configuring firewalls, mitigating *Ghost-hacking* (SQL injections & buffer overflows), and auditing system logs across the vast and infinite net.
+- 🛡️ **Hardening & Access Control:** Enforcing the Principle of Least Privilege in production databases and managing credential pipelines to prevent data leaks or privilege escalation.
+- 🛰️ **Network Protocol & Traffic Analysis:** Sniffing packet traffic with Wireshark, auditing suspicious payload behavior, and securing subspace channels via public-key cryptography (SSH, TLS/SSL).
+- 🧪 **Reverse Engineering & Low-Level Inspection:** Debugging low-level binaries with GDB, dissecting memory layouts, and identifying vulnerabilities before they become active exploits.
+- 🕵️‍♂️ **Incident Response & Threat Hunting:** Investigating intrusion vectors, patching vulnerabilities, and executing disaster recovery protocols to keep critical infrastructure alive.
+
+
+
+---
+
 ## 📡 Establish Subspace Communication
 
-- 🛰️ **Subspace Frequency:** `hayden@ufsc.br`
+- 🛰️ **Subspace Frequency:** `hayden.junior@grad.ufsc.br`
 - 📍 **Coordinates:** `27.5954° S, 48.5480° W` (Planet Earth / CTC - UFSC)
 - 🌌 **Status:** Always open to discuss Computer Science, Astrophysics, or Mechanics!
 
 <p align="center">
-  <i>"May the Source Code be with you."</i> 🚀
+  <i>"There are many things from which a person may derive identity... and a clean database execution plan is just one of them."</i> 🤖
 </p>
